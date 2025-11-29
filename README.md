@@ -1,6 +1,6 @@
 📊 Financial Report & Sales Analysis Dashboard
 
-🧩 Project Title
+🧩 Project Title:
 Interactive Sales & Profit Analysis Dashboard
 
 📝 Project Description
